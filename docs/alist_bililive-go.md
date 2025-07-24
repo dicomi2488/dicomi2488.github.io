@@ -56,4 +56,4 @@ feature:
 `./bililive`
 
 
-示例：[alist.dicomi.dpdns.org](https://alist.dicomi.dpdns.org)
+示例：~~[alist.dicomi.dpdns.org](https://alist.dicomi.dpdns.org)~~(已关)
