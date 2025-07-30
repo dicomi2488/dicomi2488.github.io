@@ -2,7 +2,7 @@
 
 ![捕获-2.PNG](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJUdmiKRtKIYCb1x4p-xMm5toAyOYHnAAIZFwAC_JFRVJEXtlEHnuLyNgQ.png)
 
-[这是官网链接(无AFF)](https://my.dataonline.vn)，有中文，注册的时候手机号可以随便填，不会验证，注册完选那个免费的廉价主机，然后要绑定域名，注意这里二级域名也是可以用的，例如我之前白嫖了个xxx.dpdns.org的域名，那就这样填：
+[这是官网链接](https://my.dataonline.vn/?affid=206))，有中文，注册的时候手机号可以随便填，不会验证，注册完选那个免费的廉价主机，然后要绑定域名，注意这里二级域名也是可以用的，例如我之前白嫖了个xxx.dpdns.org的域名，那就这样填：
 
 ![捕获-3.PNG](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJUd2iKRvv0SkriOA-3t_ZEeeihbINVAAIaFwAC_JFRVHbuXaCWw37CNgQ.png)
 
