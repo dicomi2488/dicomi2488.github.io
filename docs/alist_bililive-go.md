@@ -4,7 +4,9 @@
 [bililive-go](https://github.com/hr3lxphr6j/bililive-go)  
 [davfs2](https://github.com/volga629/davfs2)  
 [alist](https://github.com/AlistGo/alist)(如果你只是想把录播上传到云盘上去可以直接用云盘厂提供的webdav账号）  
+
  !> alist开发者已将alist出售，继续使用可能会有隐私或安全风险，可自行更替为[openlist](https://github.com/OpenListTeam/OpenList)或其它工具。
+ 
 ### 安装
 ```
 apt update
