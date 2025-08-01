@@ -21,7 +21,7 @@ mkdir webdav #创建一个用于挂载webdav的文件夹，路径随意
 ### 挂载webdav
 
  打开alist，创建一个有webdav权限的账号
-![Image description](https://s.rmimg.com/2025-05-01/1746080438-991093-unknown-20250501-1418.png)
+![alist_webdav](https://1drv.ms/i/c/f11b1c10cc3896aa/IQSue0p1Vy1kQYXTAx9oHBLAAQi1RQrzip-q4Z0uq3SyfoE)
 ```
 mount -t davfs http://127.0.0.1:5244/dav /home/user/webdav #前面填写 你的alist地址/dav 后面填写刚才创建的文件夹
 vim /etc/davfs2/secrets
