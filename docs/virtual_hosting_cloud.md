@@ -1,3 +1,5 @@
+###配置虚拟主机
+
 最近在nl上又看到了个支持ssh的虚拟主机了，看了下免费的版本还不错,大概长这样：
 
 ![捕获-2.PNG](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJUdmiKRtKIYCb1x4p-xMm5toAyOYHnAAIZFwAC_JFRVJEXtlEHnuLyNgQ.png)
@@ -20,6 +22,8 @@
 此时你的文件夹应该长这样：
 
 ![捕获-7.PNG](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJUemiKR1blvaHb-VOMH8d9ufEMhWYpAAIfFwAC_JFRVPLGCV0N6CkoNgQ.png)
+
+###配置云盘
 
 打开你的域名，开始系统安装，环境检测直接跳过，数据库类型mysql，然后回到控制面板，创建一个数据库，把账密copy过来，最终大概长这样：
 
