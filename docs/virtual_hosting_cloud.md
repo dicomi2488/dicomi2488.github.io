@@ -27,11 +27,11 @@
 
 打开你的域名，开始系统安装，环境检测直接跳过，数据库类型mysql，然后回到控制面板，创建一个数据库，把账密copy过来，最终大概长这样：
 
-![virtual_hosting_cloud_6.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQRA_sS7SvdrQqCbW2UOPf-aAc5P14hiXUtS4Imyl1YfwTE?width=1920&height=1040)
+![virtual_hosting_cloud_6.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQRA_sS7SvdrQqCbW2UOPf-aAc5P14hiXUtS4Imyl1YfwTE?width=1920&height=1040 ':size=50%')
 
 然后设置账密就行了。
 给大家展示一下最终成品：
-![virtual_hosting_cloud_7.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQQ2pWf7rGwLR73GZg-maigAAeHIIsYYWt4ZARTU_eRTIek?width=1919&height=1043)
-![virtual_hosting_cloud_8.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQSDOGcF5dOKSIRgr77ugIC4AXUJz71iDCim_pnDj_TsmAI?width=1920&height=1041)
+![virtual_hosting_cloud_7.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQQ2pWf7rGwLR73GZg-maigAAeHIIsYYWt4ZARTU_eRTIek?width=1919&height=1043 ':size=50%')
+![virtual_hosting_cloud_8.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQSDOGcF5dOKSIRgr77ugIC4AXUJz71iDCim_pnDj_TsmAI?width=1920&height=1041 ':size=50%')
 最后把我的网盘放这给大家看看速度把，不要乱搞，掉了不补http://mrc.dpdns.org
 账号root密码qkSbh97L0X6tDx
