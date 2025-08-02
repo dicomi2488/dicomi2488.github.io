@@ -1,7 +1,7 @@
 ### 配置虚拟主机
 
 最近在nl上又看到了个支持ssh的虚拟主机了，看了下免费的版本还不错,大概长这样：  
-![virtual_hosting_cloud_1.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQQssQ6lsn3VSatMSL6Krhs1ARIL8E-PUPZrS2Ymkz3TBhM?height=256)  
+![virtual_hosting_cloud_1.PNG](https://i0.hdslb.com/bfs/openplatform/6bb71536374243029a23ddac2446bae050c01472.png)  
 [这是官网链接](https://my.dataonline.vn/?affid=206)，有中文，注册的时候手机号可以随便填，不会验证，注册完选那个免费的廉价主机，然后要绑定域名，注意这里二级域名也是可以用的，例如我之前白嫖了个xxx.dpdns.org的域名，那就这样填：  
 ![virtual_hosting_cloud_2.PNG](https://1drv.ms/i/c/f11b1c10cc3896aa/IQTS61h29EXFRorW_u3U9nwGAfoNdJz5-zvFamSw0FYFeSA?width=660 ':size=50%')  
 检查完后前面的那个www.就没有了。  
