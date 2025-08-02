@@ -20,4 +20,5 @@
 - [复制到剪贴板](https://docsify.js.org/#/zh-cn/plugins?id=%e5%a4%8d%e5%88%b6%e5%88%b0%e5%89%aa%e8%b4%b4%e6%9d%bf)  
 - [评论系统](https://github.com/docsify-note/docsify-giscus)
 ### 图床
-我对图床的要求不是要有多快，只要稳就够了，所以该网站的图片都是存在onedrive上的并且使用官方接口。
+~~我对图床的要求不是要有多快，只要稳就够了，所以该网站的图片都是存在onedrive上的并且使用官方接口。~~
+后来我发现onedrive在国内访问不了，所以就换成了基于bilibili的图床，全球速度都比较快
