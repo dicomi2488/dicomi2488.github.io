@@ -42,6 +42,7 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 
 - Github：https://github.com/Eugeny/tabby/releases/download/v1.0.223/tabby-1.0.223-setup-x64.exe
 - 蓝奏云优享版：https://www.ilanzou.com/s/Do1zY6nK
+- 123云盘：https://www.123865.com/s/P0Jxjv-7glIh
 
 </details>
 <details>
@@ -54,5 +55,6 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 <summary>图吧工具箱</summary>
 
 - 蓝奏云优享版：https://www.ilanzou.com/s/n0fzY6yk
+- 123云盘：https://www.123865.com/s/P0Jxjv-lglIh
 
 </details>
