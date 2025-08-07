@@ -18,7 +18,8 @@
 - [全文搜索-Search](https://docsify.js.org/#/zh-cn/plugins?id=%e5%85%a8%e6%96%87%e6%90%9c%e7%b4%a2-search)  
 - [图片缩放-Zoom image](https://docsify.js.org/#/zh-cn/plugins?id=%e5%9b%be%e7%89%87%e7%bc%a9%e6%94%be-zoom-image)-Medium's 风格的图片缩放插件. 基于 [![github](https://img.shields.io/badge/github-medium_zoom-green)](https://github.com/francoischalifour/medium-zoom)。  
 - [复制到剪贴板](https://docsify.js.org/#/zh-cn/plugins?id=%e5%a4%8d%e5%88%b6%e5%88%b0%e5%89%aa%e8%b4%b4%e6%9d%bf)  
-- [评论系统](https://github.com/docsify-note/docsify-giscus)  
+- [评论系统](https://github.com/docsify-note/docsify-giscus)
+
 ### 图床
 ~~我对图床的要求不是要有多快，只要稳就够了，所以该网站的图片都是存在onedrive上的并且使用官方接口。~~
 后来我发现onedrive在国内访问不了，所以就换成了基于bilibili的图床，全球速度都比较快
