@@ -22,6 +22,7 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 
 - Github：https://github.com/KaringX/karing/releases/download/v1.2.2.836/karing_1.2.2.836_windows_x64.exe
 - 蓝奏云：https://wwhh.lanzoul.com/ivik832w3yyj 密码:i8b1
+- OneDrive：https://1drv.ms/u/c/f11b1c10cc3896aa/EfvtLbIP5xZClWnd2hdyXhkBdUmqxyF2AWolBCT7tz6ctw?e=ypbD4n
 
 </details>
 <details>
@@ -35,7 +36,8 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 <summary>LX Music</summary>
 
 - Github：https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop-v2.11.0-x64-Setup.exe
-- 蓝奏云：https://wwhh.lanzoul.com/iXZ3t32w478h 密码:c10r
+- 蓝奏云：https://wwhh.lanzoul.com/b00efzd1za 密码:6x2s
+- OneDrive：https://1drv.ms/f/c/f11b1c10cc3896aa/EisMX3DTrLFPr25ye6KW-2cBjxolSU-3E4QkklnL3VI58g?e=X9qIWS
 
 </details>
 <details>
