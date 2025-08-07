@@ -1,7 +1,7 @@
 # 我电脑上那些好用的软件
 ## 7-zip
 7-Zip 是一款拥有极高压缩比的开源压缩软件。  
-[官网链接](www.7-zip.org) | [github](https://github.com/ip7z/7zip) | [下载链接](https://dicomi.dpdns.org/#/docs/download?id=%e6%88%91%e7%94%b5%e8%84%91%e4%b8%8a%e9%82%a3%e4%ba%9b%e5%a5%bd%e7%94%a8%e7%9a%84%e8%bd%af%e4%bb%b6)
+[官网链接](www.7-zip.org) | [github](https://github.com/ip7z/7zip) | [下载链接](/docs/download.md)
 ## FirFox
 Firefox 是一款快速、轻量、注重隐私的浏览器，全平台可用。  
 [官网链接](www.firefox.com) | [下载链接](https://dicomi.dpdns.org/#/docs/download?id=%e6%88%91%e7%94%b5%e8%84%91%e4%b8%8a%e9%82%a3%e4%ba%9b%e5%a5%bd%e7%94%a8%e7%9a%84%e8%bd%af%e4%bb%b6)
