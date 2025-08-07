@@ -3,4 +3,5 @@
   * [本站搭建方案](/docs/web_build.md)
   * [在家进行录播并存在云盘](/docs/alist_bililive-go.md)
   * [使用免费的虚拟主机搭建私有云盘](/docs/virtual_hosting_cloud.md)
+  * [我电脑上那些好用的软件](/docs/PC_software.md)
   * [下载中心](/docs/download.md)
