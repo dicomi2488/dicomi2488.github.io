@@ -61,3 +61,11 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 - 123云盘：https://www.123865.com/s/P0Jxjv-lglIh
 
 </details>
+
+
+<details>
+<summary>cs1.6</summary>
+  
+[点击下载](https://pan.moe/s/zOoks0)
+
+</details>
