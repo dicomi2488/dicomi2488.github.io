@@ -67,6 +67,6 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 <details>
 <summary>cs1.6</summary>
   
- - [点击下载](https://pan.moe/s/zOoks0)
+ - 下载链接1: https://pan.moe/s/zOoks0
 
 </details>
