@@ -63,6 +63,20 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 
 </details>
 
+### 在升学e网通使用开源工具刷课
+<details>
+<summary>RMT</summary>
+
+- Github：https://github.com/zclucas/RMT/releases/download/RMTv1.0.7/RMTv1.0.7_x64.zip
+- 蓝奏云：https://wwhh.lanzoul.com/iKMib37e0eih
+
+</details>
+<details>
+<summary>RMT配置文件</summary>
+
+- 蓝奏云：https://wwhh.lanzoul.com/iTgGv37e0i3g
+
+</details>
 ### TPM临时文件
 
 <details>
