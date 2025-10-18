@@ -78,7 +78,7 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 
 </details>
 
-### 通过安装包重命名规避极域自动删除应用程序
+### 通过安装包规避极域自动删除文件
 
 <details>
 <summary>cs1.6</summary>
