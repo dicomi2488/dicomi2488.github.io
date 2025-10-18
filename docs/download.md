@@ -83,8 +83,8 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 <details>
 <summary>cs1.6</summary>
 
-- 下载链接1: https://share.feiliupan.com/s/ae5wU5xsAg 分享码：760
+- 下载链接1: https://share.feiliupan.com/s/afdCSx37ji 分享码：760
 - 下载链接2: https://share.feiliupan.com/s/adYLWXNeBG 分享码：760 
-- 下载链接3: https://pan.huang1111.cn/s/ggNo8TQ
+- 下载链接3: https://pan.huang1111.cn/s/LxLYXu6
 
 </details>
