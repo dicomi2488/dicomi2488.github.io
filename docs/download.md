@@ -78,7 +78,7 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 
 </details>
 
-### TPM临时文件
+### 通过安装包来规避极域自动删除应用程序
 
 <details>
 <summary>cs1.6</summary>
