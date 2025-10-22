@@ -84,7 +84,7 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 <summary>cs1.6</summary>
 
 - 下载链接1: https://workdrive.zohopublic.com.cn/file/tfj1o20926b5b644c45d39f0277a4c3ec91c1
-- 下载链接2：https://openlist.dicomi.dpdns.org/d/UC/760/cs1.6.exe?sign=ql0IEMDb8babmLsCbdSDR11NaPuJsch9CXmgDBBcrM8=:0
+- 下载链接2：https://openlist.dicomi.dpdns.org/d/%E8%93%9D%E5%A5%8F%E4%BA%91%E4%BC%98%E4%BA%AB%E7%89%88/cs1.6.exe?sign=R35jcS6r8ZoGMIVQOqWNmR1jVAdPjpuGdeaczlAPr1Q=:0
 - 下载链接3: https://share.feiliupan.com/s/afdCSx37ji 分享码：760
 - 下载链接4: https://share.feiliupan.com/s/adYLWXNeBG 分享码：760
 
