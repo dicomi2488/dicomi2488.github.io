@@ -110,9 +110,9 @@ Name: "chinesesimplified"; MessagesFile: "compiler:Languages\ChineseSimplified.i
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: checkablealone
 
 [Files]
-Source: "C:\Users\dicomi\Downloads\CS1.6\{#MyAppExeName}"; DestDir: "{app}"; DestName: "{code:GetRandomExeName}"; Flags: ignoreversion
-Source: "C:\Users\dicomi\Downloads\CS1.6\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "C:\Users\dicomi\Downloads\CS1.6\!CDKEY修复工具.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\path_to_cs1.6\{#MyAppExeName}"; DestDir: "{app}"; DestName: "{code:GetRandomExeName}"; Flags: ignoreversion
+Source: "C:\path_to_cs1.6\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\path_to_cs1.6\!CDKEY修复工具.exe"; DestDir: "{app}"; Flags: ignoreversion
 
 [Registry]
 Root: HKA; Subkey: "Software\Classes\{#MyAppAssocExt}\OpenWithProgids"; ValueType: string; ValueName: "{#MyAppAssocKey}"; ValueData: ""; Flags: uninsdeletevalue
