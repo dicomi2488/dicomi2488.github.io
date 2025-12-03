@@ -83,7 +83,7 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 <details>
 <summary>cs1.6</summary>
 
-- 下载链接1: https://workdrive.zohopublic.com.cn/file/tfj1oad0751d8e7df4552bb3994b15004d434
+- 下载链接1: https://workdrive.zohopublic.com.cn/file/yjkvs0344048b93dd485cb2fd4262afff31d5
 - 下载链接2：https://openlist.dicomi.dpdns.org/d/lanzoup/cs1666666.exe?sign=yCqE9ENishMwT_u4RSccsnEdmmRT5_kkVkg4IshSJfw=:0
 
 </details>
