@@ -10,6 +10,8 @@
 于[cloudns](https://www.cloudns.net)免费获取，通过双向解析托管在cloudflare上，同样关闭了cloudflare代理
 ### dicomi.netlify.app
 使用netlify静态网站托管服务时免费赠送
+### dicomi2488.github.io
+由github page提供
 ## 网页  
 ### 网页の根  
 本站使用[docsify](https://docsify.js.org)
@@ -28,4 +30,4 @@
 
 发布日期：2025/8/2
 
-最后编辑日期：2025/10/1
+最后编辑日期：2026/1/1
