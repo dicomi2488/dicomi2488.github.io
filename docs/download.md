@@ -93,6 +93,6 @@ github开源软件提供github下载(特点：可以审查源代码，也可以�
 <details>
 <summary>tpm</summary>
 
-- 下载链接: https://openlist.dicomi.dpdns.org/d/lanzoup/NoTopDomain.v3.0.exe?sign=jujzXnAJ13oyHr-Da6UBppvNsZLdfvZSW1CKKPbwP14=:0
+- 反极域: http://192.168.2.60:5244/d/lanzoup/NoTopDomain%20v2.1.exe?sign=33kSb6GMmResshuvHR6sKC7BIJZNZiktCxXM8YgaOrM=:0
 
 </details>
