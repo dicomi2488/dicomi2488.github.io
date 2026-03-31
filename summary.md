@@ -6,4 +6,5 @@
   * [我电脑上那些好用的软件](/docs/PC_software.md)
   * [在升学e网通使用开源工具刷课](/docs/fuck_etw360.md)
   * [通过安装包规避极域自动删除文件](/docs/inno_skip_mythware.md)
+  * [路管](/docs/luguan.md)
 * [下载中心](/docs/download.md)
