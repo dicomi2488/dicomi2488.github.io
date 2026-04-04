@@ -8,6 +8,8 @@
   * **功能特色**：国产现代化的开源 Linux 面板，以容器化技术为核心。
   * **其它资源**：官方提供了针对国内网络环境优化的 **[Docker 在线安装服务](https://1panel.cn/docs/installation/online_installation/)**，能有效解决国内服务器拉取 Docker 镜像缓慢或失败的问题。
 
+![1panel](https://1panel.cn/images/overview-full.png ':size=40%')
+
 -----
 
 ## A
