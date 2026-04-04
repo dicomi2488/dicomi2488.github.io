@@ -89,10 +89,16 @@
 
 ## H
 
-### **[HideIP Network](https://www.google.com/search?q=https://hideip.network/)** 
+### **[HideIP Network](https://beta.hideip.network/)** 
 `#代理`
 
   * 相当于一个运行在海外的浏览器
+
+
+### **[Huang1111](https://huang1111.cn/)** 
+`#云盘`
+
+  * 基于Onedrive的云盘，免费35G
 
 -----
 
@@ -120,11 +126,6 @@
 -----
 
 ## M
-
-### **[神奇海螺实验室](https://lab.magiconch.com/)** 
-`#资源` `#技术`
-
-  * 包含一些有趣的小游戏
 
 ### **[Massgrave](https://massgrave.dev/)** 
 `#资源` `#技术`
@@ -166,16 +167,13 @@
 
 -----
 
-## P
-
-### **[Huang1111](https://huang1111.cn/)** 
-`#云盘`
-
-  * 基于Onedrive的云盘，免费35G
-
------
-
 ## S
+
+### **[神奇海螺实验室](https://lab.magiconch.com/)** 
+`#资源` `#技术`
+
+  * 包含一些有趣的小游戏
+
 
 ### **[Steamora](https://steamora.net/)** 
 `#资源`
@@ -186,7 +184,7 @@
 
 ## T
 
-### **[TMail](https://www.google.com/search?q=https://tmail.eu.cc/)** 
+### **[TMail](https://tmail.eu.cc/login)** 
 `#邮箱`
 
   * 一个教育邮箱
@@ -235,4 +233,4 @@
 ### **[Z.org](https://z.org/)** 
 `#邮箱`
 
-  * 提供极短域名的邮箱z.org，还有大量其它功能：聊天、社区
+  * 提供极短域名的邮箱`z.org`，还有大量其它功能：聊天、社区
