@@ -1,5 +1,5 @@
 # 路管
-路管是我用ai做的一个小游戏，有些许bug
+小游戏，https://luguan.dicomi.dpdns.org
 <iframe 
     src="https://luguan.dicomi.dpdns.org" 
     width="100%" 
@@ -11,4 +11,4 @@
 
 发布日期：2026/4/1
 
-最后编辑日期：2026/4/1
+最后编辑日期：2026/4/5
